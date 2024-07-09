@@ -20,7 +20,7 @@ Ollama
 Steps
 
 Clone this repository:
-Copygit clone https://github.com/yourusername/wingdroid-ai.git
+Copygit clone https://github.com/Th3phylosoph3r/wingdroid-ai.git
 cd wingdroid-ai
 
 Install Tesseract OCR:
